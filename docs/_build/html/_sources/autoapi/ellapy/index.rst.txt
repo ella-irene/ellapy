@@ -1,0 +1,23 @@
+:py:mod:`ellapy`
+================
+
+.. py:module:: ellapy
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   ellapy/index.rst
+   plotting/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+
+   
+
