@@ -1,7 +1,7 @@
-:py:mod:`ellapy.ellapy`
+:py:mod:`ellapycount.ellapycount`
 =======================
 
-.. py:module:: ellapy.ellapy
+.. py:module:: ellapycount.ellapycount
 
 
 Module Contents
@@ -13,9 +13,9 @@ Functions
 
 .. autoapisummary::
 
-   ellapy.ellapy.load_text
-   ellapy.ellapy.clean_text
-   ellapy.ellapy.count_words
+   ellapycount.ellapycount.load_text
+   ellapycount.ellapycount.clean_text
+   ellapycount.ellapycount.count_words
 
 
 

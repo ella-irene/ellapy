@@ -1,7 +1,7 @@
-:py:mod:`ellapy`
+:py:mod:`ellapycount`
 ================
 
-.. py:module:: ellapy
+.. py:module:: ellapycount
 
 
 Submodules
@@ -10,7 +10,7 @@ Submodules
    :titlesonly:
    :maxdepth: 1
 
-   ellapy/index.rst
+   ellapycount/index.rst
    plotting/index.rst
 
 

@@ -1,5 +1,5 @@
-from ellapy import ellapy
-from ellapy.ellapy import count_words
+from ellapycount import ellapycount
+from ellapycount.ellapycount import count_words
 from collections import Counter
 
 def test_count_words():

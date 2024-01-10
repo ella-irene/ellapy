@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=ellapy
+set SPHINXPROJ=ellapycount
 
 if "%1" == "" goto help
 

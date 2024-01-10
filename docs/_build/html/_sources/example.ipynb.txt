@@ -6,7 +6,7 @@
    "source": [
     "# Example usage\n",
     "\n",
-    "Here we will demonstrate how to use `ellapy` to count the words in a text file and plot the top 5 results."
+    "Here we will demonstrate how to use `ellapycount` to count the words in a text file and plot the top 5 results."
    ]
   },
   {
@@ -22,8 +22,8 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "import ellapy.ellapy import count_words\n",
-    "from ellapy.plotting import plot_words"
+    "import ellapycount.ellapycount import count_words\n",
+    "from ellapycount.plotting import plot_words"
    ]
   },
   {

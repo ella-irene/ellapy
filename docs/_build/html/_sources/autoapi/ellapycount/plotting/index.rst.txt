@@ -1,7 +1,7 @@
-:py:mod:`ellapy.plotting`
+:py:mod:`ellapycount.plotting`
 =========================
 
-.. py:module:: ellapy.plotting
+.. py:module:: ellapycount.plotting
 
 
 Module Contents
@@ -13,7 +13,7 @@ Functions
 
 .. autoapisummary::
 
-   ellapy.plotting.plot_words
+   ellapycount.plotting.plot_words
 
 
 

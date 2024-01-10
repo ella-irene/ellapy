@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ellapy"
+name = "ellapycount"
 version = "0.1.0"
 description = "A package to helstand package structure."
 authors = ["Ella Hein"]

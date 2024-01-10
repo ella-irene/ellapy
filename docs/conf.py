@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"ellapy"
+project = u"ellapycount"
 copyright = u"2024, Ella Hein"
 author = u"Ella Hein"
 

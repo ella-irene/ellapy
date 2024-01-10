@@ -4,4 +4,4 @@
 
 ## v0.1.0 (08/01/2024)
 
-- First release of `ellapy`!
+- First release of `ellapycount`!
