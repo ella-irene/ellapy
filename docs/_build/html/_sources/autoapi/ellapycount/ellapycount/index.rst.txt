@@ -1,5 +1,5 @@
 :py:mod:`ellapycount.ellapycount`
-=======================
+=================================
 
 .. py:module:: ellapycount.ellapycount
 

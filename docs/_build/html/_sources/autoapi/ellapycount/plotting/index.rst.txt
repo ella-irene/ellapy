@@ -1,5 +1,5 @@
 :py:mod:`ellapycount.plotting`
-=========================
+==============================
 
 .. py:module:: ellapycount.plotting
 
