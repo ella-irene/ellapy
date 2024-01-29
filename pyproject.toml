@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ellapycount"
-version = "0.1.0"
+version = "0.1.2"
 description = "A package to helstand package structure."
 authors = ["Ella Hein"]
 license = "MIT"
